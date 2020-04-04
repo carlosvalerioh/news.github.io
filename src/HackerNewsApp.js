@@ -18,7 +18,7 @@ import { Article } from './Article.js'
         }, []);
       
         return html`
-          <small><a href="https://twitter.com/carlosvalerioh">por @carlosvaleriohs</a></small>
+          <small><a href="https://twitter.com/carlosvalerioh">por @carlosvalerioh</a></small>
           <main>
             <h4>News </h4>
             ${loading &&

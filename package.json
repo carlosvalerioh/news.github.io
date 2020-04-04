@@ -1,0 +1,20 @@
+{
+  "name": "hacker-news-copia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "servor src --reload ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "servor": "^3.2.0",
+    "standard": "^14.3.3"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
